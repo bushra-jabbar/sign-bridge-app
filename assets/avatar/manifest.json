@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "file": "avatar.glb",
+  "crossfadeMs": 250,
+  "clips": [
+    { "name": "HELLO", "durationMs": 1200 },
+    { "name": "THANK-YOU", "durationMs": 1300 },
+    { "name": "HELP", "durationMs": 1100 },
+    { "name": "GOOD", "durationMs": 1000 },
+    { "name": "WHERE", "durationMs": 1200 },
+    { "name": "NAME", "durationMs": 1100 }
+  ]
+}

@@ -1,0 +1,14 @@
+docs/
+
+# Dart and Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# IDE and test caches
+.idea/
+*.iml
+__pycache__/
